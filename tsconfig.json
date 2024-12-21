@@ -11,7 +11,8 @@
   "include": [
     "**/*.ts",
     "**/*.tsx",
-    ".expo/types/**/*.ts",
-    "expo-env.d.ts"
+    "**/*.js",
+    "stripe/paymentRoutes.js",
+    "stripe/index.js"
   ]
 }

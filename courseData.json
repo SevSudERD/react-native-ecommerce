@@ -1,0 +1,45 @@
+[
+	{
+		"title": "A1 Deutsch",
+		"description": "Learn everywhere and anytime.",
+		"detailDescription":"Learn everywhere and anytime. This course allow you to improve your undertanding of basic german phrasses, grammer and vocabulary. It is a very popular course for beginners. It will help you to improve your basic language skills. You will learn new vocabulary and grammer and will be able to communicate better in German.",
+		"imageUrl": "https://lingothoughts.com/blog/wp-content/uploads/2023/07/9.png",
+		"price": 54.99
+	},
+	{
+		"title": "Deutche Intermediate Vocabulary",
+		"description": "B1 intermadiate vocabulary.The most useful vocab to learn....",
+	     "detailDescription":"This is an internediate German course. You will learn new vocabulary and grammer and will be able to communicate better in German.With this program, you build up your ability to speak german as well as speaking and listening. This course is a very popular course for intermediate learners. It will help you to improve your intermediate language skills. You will learn new vocabulary and grammer and will be able to communicate better in german.",
+		"imageUrl": "https://entri.app/blog/wp-content/uploads/2024/07/A-Ultimate-Guide-german-b1-vocabulary-list-1.png",
+		"price": 44.99
+	},
+	{
+		"title": "A2 Deutsch",
+		"description": "Pre-intermatiate level deutsch.",
+		"detailDescription": "In this course, you're going to level up to better german vocabulary, grammer or other basic things as well. You will learn new vocabulary and grammer and will be able to communicate better in german.",
+		"imageUrl": "https://lingothoughts.com/blog/wp-content/uploads/2023/07/8.png",
+		"price": 34.99
+	},
+	{
+		"title": "Writing in German",
+		"description": "German writing for beginners.",
+	     "detailDescription":"This is an internediate german course. You will learn new vocabulary and grammer and will be able to communicate better in german.With this program, you build up your ability to speak german as well as speaking and listening. This course is a very popular course for intermediate learners. It will help you to improve your intermediate language skills. You will learn new vocabulary and grammer and will be able to communicate better in german.",
+		"imageUrl": "https://study.com/cimages/multimages/16/stack-letters-447579_640.jpg",
+		"price": 39.99
+	},
+	{
+		"title": "B1 Deutsch",
+		"description": "B1 intermadiate deutsch for grammer and main usage ",
+		"detailDescription":"This is an internediate german course. You will learn new vocabulary and grammer and will be able to communicate better in german.With this program, you build up your ability to speak german as well as speaking and listening. This course is a very popular course for intermediate learners. It will help you to improve your intermediate language skills. You will learn new vocabulary and grammer and will be able to communicate better in german.",
+		"imageUrl": "https://lingothoughts.com/blog/wp-content/uploads/2023/07/10.png",
+		"price": 69.99
+	},
+	
+	{
+		"title": "From beginner to expert grammer",
+		"description": "Learn the german grammer from beginner to expert.",
+	     "detailDescription":"In this course, you're going to level up to better german vocabulary, grammer or other basic things as well. You will learn new vocabulary and grammer and will be able to communicate better in german.",
+		"imageUrl": "https://sprachekulturkommunikation.com/wp-content/uploads/Grammatik.jpg",
+		"price": 59.99
+	}
+]
